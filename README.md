@@ -25,7 +25,7 @@
 ## Active
 - **Life-Z (DayZ)** — host provider + server operations (infra, configs, tooling, test/staging)
   <br/>
-  <code>213.32.245.188:2402</code> • <code>213.32.245.188:2302</code>
+  <code>https://Life-z.net</code>
 
 ## Principles
 - No secrets. Ever.
