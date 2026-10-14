@@ -1,33 +1,10 @@
-<h1 align="center">TheLumoc</h1>
-<p align="center"><b>IT Support • Networking • Systems • Homelab</b></p>
+# TheLumoc
 
-<p align="center">
-  <a href="https://life-z.net">
-    <img alt="Website" src="https://img.shields.io/badge/Website-life--z.net-2ea44f?style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/invite/NHhnWvsp4V">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-life--z.net-2ea44f?style=for-the-badge)](https://life-z.net)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NHhnWvsp4V)
 
-<p align="center">
-  I build and run reliable infrastructure — networks, servers, virtualization, and self-hosted platforms.
-</p>
+I'm TheLumoc. I work in IT and spend a lot of my spare time on networking, servers and my homelab.
 
----
+My setup runs on **Proxmox**, with Linux VMs, LXC containers and Docker. I use it to host services, try things out and learn along the way. That includes everything from scripts and firewalls to storage, backups and monitoring.
 
-## Focus
-- **Networking**: VLANs • inter-VLAN routing • OSPF • ACLs • firewall policy • VPN/tunneling • DNS/DHCP basics
-- **Systems & Infra**: Proxmox • VMs/LXC • Linux services • storage planning • backups • automation
-- **Containers & Apps**: Docker • reverse proxies • TLS • self-hosted services • sensible exposure (public vs internal)
-- **Ops**: monitoring/logs • documentation • change control • hardening mindset • no-secrets-in-git
-
-## Active
-- **Life-Z (DayZ)** — host provider + server operations (infra, configs, tooling, test/staging)
-  <br/>
-  <code>https://Life-z.net</code>
-
-## Principles
-- No secrets. Ever.
-- Small, reviewable commits with clear intent.
-- If it can’t be reproduced, it’s not done.
+I also host **[Life-Z](https://life-z.net)**, a DayZ server, where I handle the infrastructure and server operations.
